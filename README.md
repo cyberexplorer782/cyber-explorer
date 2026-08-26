@@ -10,7 +10,6 @@ Part 1: Network and Web Fundamentals.
 
 An IP address is what identifies my computer.
 It is not permanent, yet it plays a crucial role
-
 in data transmission, consisting of 4 numbers that 
 represent a total of 32 bits.
   
@@ -21,7 +20,6 @@ represent a total of 32 bits.
       
  yet many still prefer to use them because of their 
  simplicity and because upgrading the entire global
-      
  infrastructure to IPv6 is incredibly  expensive  and  
  takes a long time that we don't really have.  
       
@@ -47,11 +45,14 @@ represent a total of 32 bits.
 
 - MAC address:
 
-  This is a special address, acting as your unique digital footprint
-  that cannot be permanently changed .While your IP address is
+  This is a special address, acting as
+  your unique digital footprint
+  that cannot be permanently changed .
   
+  While your IP address is
   responsible for delivering the data across the internet to your router,
   the MAC address represents your specific device's location inside the local network.
+  
   This is how the router knows exactly were to send the data.
 
   Now that you understand the role of these basic but most important concepts,
