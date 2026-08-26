@@ -4,7 +4,7 @@ So today i learned about Network Fundamentals.
 Part 1: Network and Web Fundamentals.
 ## Goal: To understand how data travels across the internet.
  
-   - Network Fundamentals -
+   - Network Fundamentals 
 
 - IP address: 
 
