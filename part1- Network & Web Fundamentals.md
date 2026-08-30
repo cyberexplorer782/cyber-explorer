@@ -4,7 +4,7 @@
 
 ###  IP Address (The Digital Mailbox)
 
-* [ ]What it does: Identifies a device on the internet so data knows where to go.
+ *[ ]What it does: Identifies a device on the internet so data knows where to go.
   
 * [ ]Dynamic It changes depending on the network you're connected to.
   
