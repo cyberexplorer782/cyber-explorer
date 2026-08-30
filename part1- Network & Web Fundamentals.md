@@ -4,15 +4,15 @@
 
 ###  IP Address (The Digital Mailbox)
 
- *[ ]What it does: Identifies a device on the internet so data knows where to go.
+* [ ] What it does: Identifies a device on the internet so data knows where to go.
   
-* [ ]Dynamic It changes depending on the network you're connected to.
+* [ ] Dynamic It changes depending on the network you're connected to.
   
-* [ ]IPv4: 32 bits (4 numbers). We officially ran out of them globally.
+* [ ] IPv4: 32 bits (4 numbers). We officially ran out of them globally.
   
-* [ ]The NAT Trick: Networks use Network Address Translation to let a whole house share just *one* public IP.
+* [ ] The NAT Trick: Networks use Network Address Translation to let a whole house share just *one* public IP.
   
-* [ ]IPv6: 128 bits (hexadecimal). The future fix for the IPv4 shortage, but adoption is slow because upgrading global hardware is crazy expensive.
+* [ ] IPv6: 128 bits (hexadecimal). The future fix for the IPv4 shortage, but adoption is slow because upgrading global hardware is crazy expensive.
 
 ###  MAC Address (The Hardware Tattoo)
 
